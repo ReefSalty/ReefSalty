@@ -6,5 +6,5 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q29SYPB)
 
-![ReefSalty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReefSalty&show_icons=true&theme=radical)
+![ReefSalty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReefSalty&show_icons=true&theme=aura)
 
